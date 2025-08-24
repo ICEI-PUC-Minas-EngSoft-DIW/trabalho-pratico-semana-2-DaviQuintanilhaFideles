@@ -1,0 +1,16 @@
+
+/*Estilo do body*/
+body{
+    background-color: bisque;
+}
+
+
+/*Estilo da imagem*/
+.foto{
+    width:260px;
+    height:260px;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+
